@@ -1,0 +1,24 @@
+{
+   "name": "sagittariusx/beluga.dynamic-properties",
+   "description": "Helping classes to use dynamic properties declared by get*() and set*() methods",
+   "license": "LGPLv3",
+   "authors": [
+      {
+         "name": "SagittariusX",
+         "email": "unikado+sag@gmail.com"
+      }
+   ],
+   "require": {
+      "php": ">=7.0"
+   },
+   "require-dev": {
+      "phpunit/phpunit": "5.0.*"
+   },
+   "minimum-stability": "dev",
+   "prefer-stable": true,
+   "autoload": {
+      "psr-0": {
+         "Beluga\\DynamicProperties\\": "src/"
+      }
+   }
+}
