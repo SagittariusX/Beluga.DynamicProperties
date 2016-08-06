@@ -10,7 +10,7 @@ properties with read or read+write access. It requires only the presence of some
 Install it via
 
 ```
-composer require sagittariusx/beluga.dynamicproperties
+composer require sagittariusx/beluga.dynamic-properties
 ```
 
 or inside the `composer.json`:
@@ -18,7 +18,7 @@ or inside the `composer.json`:
 ```json
    "require": {
       "php": ">=7.0",
-      "sagittariusx/beluga.dynamicproperties": "^0.1.0"
+      "sagittariusx/beluga.dynamic-properties": "^0.1.0"
    },
 ```
 
